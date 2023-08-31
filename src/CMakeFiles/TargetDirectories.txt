@@ -1,0 +1,3 @@
+/home/wangyuanwen/mtcnn_jni/src/CMakeFiles/edit_cache.dir
+/home/wangyuanwen/mtcnn_jni/src/CMakeFiles/rebuild_cache.dir
+/home/wangyuanwen/mtcnn_jni/src/CMakeFiles/mtcnn.dir
